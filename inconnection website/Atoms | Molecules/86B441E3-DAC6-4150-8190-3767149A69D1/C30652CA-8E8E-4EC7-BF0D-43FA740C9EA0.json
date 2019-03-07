@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C30652CA-8E8E-4EC7-BF0D-43FA740C9EA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E60B82C-5968-4645-9F26-7E2802893455",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C620B55-0867-4DF2-8359-8FBC7E1B868B",
+    "height": 203,
+    "width": 204,
+    "x": 231,
+    "y": 366
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "case study/image copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EF06B30E-E3C3-4256-A2E0-FEDCCB56B970",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E75CD03E-DD71-4739-B05B-80303DF82C6D",
+  "verticalSpacing": 0
+}
