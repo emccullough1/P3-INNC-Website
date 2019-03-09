@@ -9,33 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.254969175170068,
-            "green": 0.254969175170068,
-            "red": 0.254969175170068
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "LucidaGrande",
-              "size": 30
+              "name": "Helvetica",
+              "size": 20
             }
           },
-          "kerning": 2,
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 35,
+            "minimumLineHeight": 35
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 255,
         "location": 0
       }
     ],
-    "string": "text"
+    "string": "Bitters swag af sustainable post-ironic marfa tattooed. Activated charcoal wayfarers normcore, fam pabst dreamcatcher actually hashtag cred celiac. DIY semiotics banh mi literally truffaut pop-up whatever. Food truck PBR&B lyft hexagon twee. Cray portland"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1DEE5A8F-46E3-461C-A544-36930122C398",
+  "do_objectID": "5F7B968C-891A-41FF-A44F-94315795E797",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 35,
-    "width": 66,
-    "x": -130,
-    "y": -114
+    "height": 174,
+    "width": 619,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{1, 9}, {62, 21}}",
+  "glyphBounds": "{{18, 8}, {584, 125}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,9 +65,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "text",
+  "name": "Bitters swag af sust",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -80,20 +82,22 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.254969175170068,
-          "green": 0.254969175170068,
-          "red": 0.254969175170068
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "LucidaGrande",
-            "size": 30
+            "name": "Helvetica",
+            "size": 20
           }
         },
-        "kerning": 2,
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "maximumLineHeight": 35,
+          "minimumLineHeight": 35
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -101,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

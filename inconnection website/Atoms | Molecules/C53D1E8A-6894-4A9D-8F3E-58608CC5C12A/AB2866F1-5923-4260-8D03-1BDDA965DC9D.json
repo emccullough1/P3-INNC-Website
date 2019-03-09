@@ -9,59 +9,31 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.254969175170068,
-            "green": 0.254969175170068,
-            "red": 0.254969175170068
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "LucidaGrande",
+              "name": "Helvetica",
               "size": 60
             }
           },
-          "kerning": 2,
           "paragraphStyle": {
             "_class": "paragraphStyle"
-          },
-          "textStyleVerticalAlignmentKey": 0
+          }
         },
-        "length": 5,
+        "length": 16,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.254969175170068,
-            "green": 0.254969175170068,
-            "red": 0.254969175170068
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "LucidaGrande",
-              "size": 60
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle"
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 1,
-        "location": 5
       }
     ],
-    "string": "Header"
+    "string": "Title of Company"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E5A0093B-FA98-425C-B7CE-382129BB3DD5",
+  "do_objectID": "AB2866F1-5923-4260-8D03-1BDDA965DC9D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -75,12 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 71,
-    "width": 217,
-    "x": 0,
-    "y": 0
+    "height": 155,
+    "width": 518,
+    "x": 261,
+    "y": 122
   },
-  "glyphBounds": "{{5, 11}, {211, 48}}",
+  "glyphBounds": "{{0, 13}, {451, 58}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -89,9 +61,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Header",
+  "name": "Title of Company",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -106,26 +78,24 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.254969175170068,
-          "green": 0.254969175170068,
-          "red": 0.254969175170068
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "LucidaGrande",
+            "name": "Helvetica",
             "size": 60
           }
         },
-        "kerning": 2,
         "paragraphStyle": {
           "_class": "paragraphStyle"
-        },
-        "textStyleVerticalAlignmentKey": 0
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

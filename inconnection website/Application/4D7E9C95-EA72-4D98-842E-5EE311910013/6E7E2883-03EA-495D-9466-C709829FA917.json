@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8F4C3377-DB9D-4C02-90AD-561D2C9BF185",
+  "do_objectID": "6E7E2883-03EA-495D-9466-C709829FA917",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 71,
-    "width": 217,
-    "x": 0,
-    "y": 0
+    "height": 220,
+    "width": 702,
+    "x": 202,
+    "y": 1207
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Header",
+  "name": "founder bio molecule",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "1E0DD83F-7EC2-4B80-A047-3261C09E494C",
+  "symbolID": "7FDE59ED-3BD1-407F-BF89-73BDB87DFED5",
   "verticalSpacing": 0
 }

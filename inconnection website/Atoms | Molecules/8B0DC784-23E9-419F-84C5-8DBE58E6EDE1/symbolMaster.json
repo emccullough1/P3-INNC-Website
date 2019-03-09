@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6,
+  "changeIdentifier": 89,
   "clippingMaskMode": 0,
-  "do_objectID": "DD196E98-B62B-4A8B-A789-E342FDF203DF",
+  "do_objectID": "8B0DC784-23E9-419F-84C5-8DBE58E6EDE1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 71,
-    "width": 217,
-    "x": 100,
-    "y": 0
+    "height": 220,
+    "width": 702,
+    "x": 4424,
+    "y": -114
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,11 +49,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "E5A0093B-FA98-425C-B7CE-382129BB3DD5"
+      "class": "symbolInstance",
+      "id": "07A5AE47-4645-41BD-91C7-0E3D195142C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B11AE5C-A250-40F8-A75B-7FC70309ED39"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBC8CC55-238D-46CC-BDB4-E949365B2A8E"
     }
   ],
-  "name": "Header",
+  "name": "founder bio right",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -67,7 +75,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "1E0DD83F-7EC2-4B80-A047-3261C09E494C",
+  "symbolID": "7FDE59ED-3BD1-407F-BF89-73BDB87DFED5",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

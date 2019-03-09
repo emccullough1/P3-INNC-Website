@@ -1,5 +1,5 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,9 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 422,
   "clippingMaskMode": 0,
-  "do_objectID": "86B441E3-DAC6-4150-8190-3767149A69D1",
+  "do_objectID": "4D7E9C95-EA72-4D98-842E-5EE311910013",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 569,
-    "width": 435,
-    "x": 546,
-    "y": 653
+    "height": 8000,
+    "width": 1024,
+    "x": 77,
+    "y": 93
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -38,7 +37,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -46,27 +44,65 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "0FE137C0-B586-49A9-AAB9-017BA98D7156"
+      "id": "64F06FE8-6BC2-4C66-B6B1-2BA82AB2A2F0"
     },
     {
       "class": "symbolInstance",
-      "id": "6B3CA33D-C4A8-4DF0-AB01-98B0B0E66064"
+      "id": "38BA1374-AED6-48EC-82C3-2F2A197F005B"
     },
     {
       "class": "symbolInstance",
-      "id": "7366CA95-090B-498D-91FF-AC99F5B2BE95"
+      "id": "6100D576-A511-442A-A6C1-98B68463B53A"
     },
     {
       "class": "symbolInstance",
-      "id": "C30652CA-8E8E-4EC7-BF0D-43FA740C9EA0"
+      "id": "CBB82FFF-EEFB-4CB4-9CC6-9012BA9B9243"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A873455-14DA-48FE-A1B9-38E4A37AED26"
+    },
+    {
+      "class": "rectangle",
+      "id": "ACF84089-E54B-4EF5-A7DF-A04F8291B343"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40F4D253-7975-4E4B-B838-6A640926AB9E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E7E2883-03EA-495D-9466-C709829FA917"
     }
   ],
-  "name": "case study",
-  "nameIsFixed": false,
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 32,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Website",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -79,7 +115,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "ED9A6BF6-8EC4-4BA5-B24F-A8C71BF3D9E4",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

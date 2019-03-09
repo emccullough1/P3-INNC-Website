@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 1470,
   "clippingMaskMode": 0,
-  "do_objectID": "4D7E9C95-EA72-4D98-842E-5EE311910013",
+  "do_objectID": "80F978DC-9370-4638-B7DE-3256B17769B3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 8000,
-    "width": 1024,
-    "x": 77,
-    "y": 93
+    "height": 218,
+    "width": 742,
+    "x": 1286,
+    "y": 380
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -37,6 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -44,18 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "group",
+      "id": "C5D78D81-59E5-4244-BA16-F255F0AC9112"
+    }
   ],
-  "name": "Website",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop",
-    "offersLandscapeVariant": 0,
-    "width": 1024
-  },
+  "name": "fundraising tracking image",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,6 +67,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "C5A89A25-AE42-4C02-8D66-9B2D99B7C3F1",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

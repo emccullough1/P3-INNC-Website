@@ -9,34 +9,33 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.254969175170068,
-            "green": 0.254969175170068,
-            "red": 0.254969175170068
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "LucidaGrande",
-              "size": 16
+              "name": "Helvetica",
+              "size": 40
             }
           },
-          "kerning": 2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 800,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "When you type the website name on your address bar, a simple yet classy homepage of the website unfurls right before your eyes. Designed tastefully, the homepage presents a vivid picturesque of one of the most beautiful must-visit places in the world, Barcelona, located in Spain.  This website contains everything you might want to know about Barcelona, which is the capital of Catalunya, a delightful and welcoming place of historical defeats and recent victories, situated at the Catalan region of Spain. The website also offers you attractive tourist-packages and a recommends a wide selection of accommodations for you to choose from. Easy to navigate, and brief and precise in information, this website will certainly captivate your interest in the much-less-talked about city of beauties      "
+    "string": "Header"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5C30AB1F-F19E-4AD0-B2FB-5F9873ADE585",
+  "do_objectID": "CC6D3DD3-2E8A-47DC-BAFE-5187580BA565",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 342,
-    "width": 464,
+    "height": 68,
+    "width": 620,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 2}, {458, 341}}",
+  "glyphBounds": "{{247, 10}, {129, 30}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "When you type the we",
+  "name": "Header",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -81,21 +80,20 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.254969175170068,
-          "green": 0.254969175170068,
-          "red": 0.254969175170068
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "LucidaGrande",
-            "size": 16
+            "name": "Helvetica",
+            "size": 40
           }
         },
-        "kerning": 2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -103,17 +101,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
-  "userInfo": {
-    "com.invisionlabs.duplicate": {
-      "type-duplicate": {
-        "action": "article",
-        "options": {
-          "section": "travel",
-          "type": "body"
-        },
-        "title": "Travel"
-      }
-    }
-  }
+  "textBehaviour": 2
 }

@@ -38,15 +38,19 @@
   "layers": [
     {
       "class": "symbolMaster",
-      "id": "DD196E98-B62B-4A8B-A789-E342FDF203DF"
-    },
-    {
-      "class": "symbolMaster",
       "id": "7EF7A71A-DFAC-4C0F-B7FA-02D7E90562D2"
     },
     {
       "class": "text",
       "id": "1DEE5A8F-46E3-461C-A544-36930122C398"
+    },
+    {
+      "class": "text",
+      "id": "A12C8224-FBF5-4E43-8BCC-CF7310480C7A"
+    },
+    {
+      "class": "text",
+      "id": "85D6220A-5A77-4721-9C31-48A0ECE64762"
     },
     {
       "class": "symbolMaster",
@@ -58,7 +62,43 @@
     },
     {
       "class": "symbolMaster",
-      "id": "68C2231C-E051-4461-BF95-5BF7465BA279"
+      "id": "C53D1E8A-6894-4A9D-8F3E-58608CC5C12A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B794E9D6-1525-4F76-A700-C99F5DE74613"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "80F978DC-9370-4638-B7DE-3256B17769B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F94CAFF-89E7-4D28-A85B-A48AB7FA7749"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "643E84FE-740D-456D-8DE7-BEB0AE0098B6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5F2BB4E0-35DE-44AB-A022-622D02324D79"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "84C4AD4E-31E6-44C0-9757-F9C5F3A369DA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "82343E98-15E2-4FD4-8491-5A3AE1670B27"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "49705D2E-147F-428A-A545-DD078F767F3D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8B0DC784-23E9-419F-84C5-8DBE58E6EDE1"
     }
   ],
   "name": "Atoms | Molecules",

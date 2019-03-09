@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B89A49B3-55F8-4009-B888-B66E7A761D34",
+  "do_objectID": "CBB82FFF-EEFB-4CB4-9CC6-9012BA9B9243",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,41 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 68,
+    "width": 620,
+    "x": 204,
+    "y": 373
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -616,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "7855B681-6AAF-415B-BD59-24580F5AA1AA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "69A316A1-9A2B-43DF-8B85-2EF4F645C30E"
-    }
+  "name": "Header 1",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Organisms",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -58,10 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -632,
-    "guides": [
-    ]
-  }
+  "symbolID": "1547B991-3D5B-4666-8F45-D2579EF043E9",
+  "verticalSpacing": 0
 }

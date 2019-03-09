@@ -9,33 +9,33 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.254969175170068,
-            "green": 0.254969175170068,
-            "red": 0.254969175170068
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "LucidaGrande",
-              "size": 30
+              "name": "Helvetica",
+              "size": 20
             }
           },
-          "kerning": 2,
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "text"
+    "string": "button"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1DEE5A8F-46E3-461C-A544-36930122C398",
+  "do_objectID": "A9F01EEE-43AF-49DD-83F0-2BF88136F61C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 35,
-    "width": 66,
-    "x": -130,
-    "y": -114
+    "height": 24,
+    "width": 233,
+    "x": 0,
+    "y": 16
   },
-  "glyphBounds": "{{1, 9}, {62, 21}}",
+  "glyphBounds": "{{89, 4}, {54, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,9 +63,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "text",
+  "name": "button",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -80,20 +80,20 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.254969175170068,
-          "green": 0.254969175170068,
-          "red": 0.254969175170068
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "LucidaGrande",
-            "size": 30
+            "name": "Helvetica",
+            "size": 20
           }
         },
-        "kerning": 2,
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -101,5 +101,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

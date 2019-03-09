@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1555,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "DACF24F4-1D5E-41B6-BAE1-FEF3853AAD0E",
+  "do_objectID": "84C4AD4E-31E6-44C0-9757-F9C5F3A369DA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 112,
-    "width": 312,
-    "x": -366,
-    "y": 202
+    "height": 220,
+    "width": 220,
+    "x": 3123,
+    "y": -114
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -38,7 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -49,15 +49,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "8F4C3377-DB9D-4C02-90AD-561D2C9BF185"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BDAAFB73-93D3-4D1E-85FF-22A27B166E83"
+      "class": "rectangle",
+      "id": "F0CD13B0-EB6C-4C3D-A287-2F169DDFD3A1"
     }
   ],
-  "name": "Header + subhead",
+  "name": "founder image",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -71,7 +67,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "22392FBE-AACD-45D7-B3D5-953281284974",
+  "symbolID": "0FFBABFF-9B69-42C4-8F6D-02FF38EFE343",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -26,19 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "text"
+    "string": "buttons"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1DEE5A8F-46E3-461C-A544-36930122C398",
+  "do_objectID": "A12C8224-FBF5-4E43-8BCC-CF7310480C7A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "6C847673-27A6-46A3-99EA-D576292D8E1C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "F13827E7-8FC7-4074-A29D-3F0A8263C510",
     "height": 35,
-    "width": 66,
-    "x": -130,
-    "y": -114
+    "width": 127,
+    "x": 636,
+    "y": -105
   },
-  "glyphBounds": "{{1, 9}, {62, 21}}",
+  "glyphBounds": "{{2, 5}, {120, 25}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "text",
+  "name": "buttons",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -71,11 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "C8658D92-F1CB-441E-AD72-221AD13C0766",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "37A28FBC-1822-4A44-87A0-BDE0C9E2B950",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

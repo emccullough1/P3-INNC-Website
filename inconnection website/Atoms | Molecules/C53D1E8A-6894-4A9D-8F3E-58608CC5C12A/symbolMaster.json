@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 543,
+  "changeIdentifier": 523,
   "clippingMaskMode": 0,
-  "do_objectID": "7EF7A71A-DFAC-4C0F-B7FA-02D7E90562D2",
+  "do_objectID": "C53D1E8A-6894-4A9D-8F3E-58608CC5C12A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 35,
-    "width": 312,
-    "x": -130,
-    "y": 70
+    "height": 344,
+    "width": 1024,
+    "x": 1280,
+    "y": -24
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,12 +49,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "E3B1C013-237C-4DD6-8057-231734F4ECB4"
+    },
+    {
       "class": "text",
-      "id": "768C4307-1A4D-4037-AC26-D5F7B1AE8D35"
+      "id": "AB2866F1-5923-4260-8D03-1BDDA965DC9D"
     }
   ],
-  "name": "sub text",
-  "nameIsFixed": true,
+  "name": "Header image",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -67,7 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B2EEC6E5-68B4-4021-8F90-1BA79B3EF798",
+  "symbolID": "025474F6-9535-4135-9A6A-42C780281A28",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
