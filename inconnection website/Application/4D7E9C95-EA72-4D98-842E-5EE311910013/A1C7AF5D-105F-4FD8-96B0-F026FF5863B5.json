@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FBC8CC55-238D-46CC-BDB4-E949365B2A8E",
+  "do_objectID": "A1C7AF5D-105F-4FD8-96B0-F026FF5863B5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 52,
-    "x": 0,
-    "y": 245
+    "height": 51,
+    "width": 51,
+    "x": 407,
+    "y": 2952
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "founder name",
+  "name": "social media icon",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "40225AD4-E903-4A5F-B1C5-AB5204A9D8D5",
+  "symbolID": "CFC7281D-3CDC-42F0-9FDB-8A0863B2A43F",
   "verticalSpacing": 0
 }

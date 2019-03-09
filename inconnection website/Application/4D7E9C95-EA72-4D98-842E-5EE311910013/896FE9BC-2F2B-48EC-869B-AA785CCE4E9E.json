@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FBC8CC55-238D-46CC-BDB4-E949365B2A8E",
+  "do_objectID": "896FE9BC-2F2B-48EC-869B-AA785CCE4E9E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 52,
-    "x": 0,
-    "y": 245
+    "height": 60,
+    "width": 233,
+    "x": 401,
+    "y": 2689
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "founder name",
+  "name": "Button",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "40225AD4-E903-4A5F-B1C5-AB5204A9D8D5",
+  "symbolID": "3AA7D8A3-AE75-443D-9657-3F800D7B908C",
   "verticalSpacing": 0
 }

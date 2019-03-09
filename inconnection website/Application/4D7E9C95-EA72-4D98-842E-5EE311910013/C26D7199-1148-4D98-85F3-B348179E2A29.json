@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FBC8CC55-238D-46CC-BDB4-E949365B2A8E",
+  "do_objectID": "C26D7199-1148-4D98-85F3-B348179E2A29",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3964D41F-4EE8-4314-936D-3B0FF6812DB3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 52,
-    "x": 0,
-    "y": 245
+    "do_objectID": "B28D5EBB-171E-49F4-B9EA-6B852C2C2978",
+    "height": 471,
+    "width": 279,
+    "x": 541,
+    "y": 1268
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "founder name",
+  "name": "founder bio molecule copy",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "57DE6F8E-4CD6-4572-AFA4-F6349C9BE36A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "40225AD4-E903-4A5F-B1C5-AB5204A9D8D5",
+  "symbolID": "7FDE59ED-3BD1-407F-BF89-73BDB87DFED5",
   "verticalSpacing": 0
 }

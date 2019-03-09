@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 703,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "7EF7A71A-DFAC-4C0F-B7FA-02D7E90562D2",
+  "do_objectID": "1315AD58-4B06-4FE1-9739-8CC09291100E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 35,
-    "width": 254,
-    "x": -130,
-    "y": 70
+    "height": 250,
+    "width": 220,
+    "x": 3123,
+    "y": 206
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,12 +49,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "148EF88D-CD45-4F39-A0AE-2C0AC9FFB8E9"
+    },
+    {
       "class": "text",
-      "id": "768C4307-1A4D-4037-AC26-D5F7B1AE8D35"
+      "id": "87F30928-0CCA-4294-9B65-31A996C1CECF"
     }
   ],
-  "name": "sub text",
-  "nameIsFixed": true,
+  "name": "past event image + title",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -67,7 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B2EEC6E5-68B4-4021-8F90-1BA79B3EF798",
+  "symbolID": "FE49324F-7303-4EF9-B538-7E8DA7E8CAD6",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

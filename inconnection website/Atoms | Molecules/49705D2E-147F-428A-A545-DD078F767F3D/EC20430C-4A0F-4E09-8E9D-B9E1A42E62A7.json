@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
-              "size": 22
+              "name": "Helvetica-Bold",
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Name"
+    "string": "Ashley"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 33,
-    "width": 318,
+    "width": 70,
     "x": 0,
-    "y": 0
+    "y": 6
   },
-  "glyphBounds": "{{1, 5}, {57, 17}}",
+  "glyphBounds": "{{0, 3}, {53, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Name",
+  "name": "Ashley",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -87,8 +87,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
-            "size": 22
+            "name": "Helvetica-Bold",
+            "size": 16
           }
         },
         "paragraphStyle": {
