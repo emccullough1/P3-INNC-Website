@@ -22,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3140,
+    "height": 3179,
     "width": 1024,
     "x": 77,
     "y": 93
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -115,24 +115,32 @@
       "id": "896FE9BC-2F2B-48EC-869B-AA785CCE4E9E"
     },
     {
+      "class": "symbolInstance",
+      "id": "E71B6C3B-6463-4A7E-9450-DAB566BC084C"
+    },
+    {
       "class": "rectangle",
-      "id": "3CEB9AE2-925B-4D5B-AE25-0B7F5966CC18"
+      "id": "541D58FE-49A0-4E4E-A73C-E3897A7BA998"
+    },
+    {
+      "class": "text",
+      "id": "C6169C52-BD7B-4889-9503-30390FC4050E"
     },
     {
       "class": "symbolInstance",
-      "id": "A1C7AF5D-105F-4FD8-96B0-F026FF5863B5"
+      "id": "C90F5070-56FB-490B-A38D-10917F03A420"
     },
     {
       "class": "symbolInstance",
-      "id": "04C3429F-B195-4BB8-8901-E3532A51DCEA"
+      "id": "2B0BD85A-6ADB-4FFE-9ED8-13D33F2E3AA9"
     },
     {
       "class": "symbolInstance",
-      "id": "51ED9311-926A-4DB3-B170-88FA68F59B81"
+      "id": "D3D20D9E-CDD3-4799-B609-1E29E3D1826F"
     },
     {
       "class": "symbolInstance",
-      "id": "AA5359FF-33B6-4378-AFBD-9CE5A5C903C6"
+      "id": "01C7E861-49B3-4604-8641-3A1C7BFE1935"
     }
   ],
   "layout": {

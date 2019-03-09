@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9F94CAFF-89E7-4D28-A85B-A48AB7FA7749",
+  "do_objectID": "D3D20D9E-CDD3-4799-B609-1E29E3D1826F",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "1B81D6F9-723E-4663-8E59-A479FA44FE5C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 218,
-    "width": 742,
-    "x": 1280,
-    "y": 429
+    "do_objectID": "23684E6A-A23F-4336-AFEC-E35013F402FD",
+    "height": 31,
+    "width": 30,
+    "x": 876,
+    "y": 6
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -26,9 +28,9 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "fundraising tracking image",
+  "name": "INNC icon Copy 2",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "18390268-F953-4B86-8027-871DF5A3F8DD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C5A89A25-AE42-4C02-8D66-9B2D99B7C3F1",
+  "symbolID": "DA0763B7-3D55-4CCF-97DB-AAD0D515CBD3",
   "verticalSpacing": 0
 }

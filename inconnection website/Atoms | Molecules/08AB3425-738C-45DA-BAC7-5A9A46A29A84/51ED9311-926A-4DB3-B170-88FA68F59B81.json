@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A1C7AF5D-105F-4FD8-96B0-F026FF5863B5",
+  "do_objectID": "51ED9311-926A-4DB3-B170-88FA68F59B81",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3C04B1B0-BC34-4344-B7F3-9D78DD62DE71",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "6CEBD9B3-0118-44E3-8CEB-7AD4A5E3F12A",
     "height": 51,
     "width": 51,
-    "x": 407,
-    "y": 2952
+    "x": 566,
+    "y": 121
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "social media icon",
+  "name": "social media icon copy 2",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,6 +41,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "2C7DA2E8-CADE-4C41-9EB9-19FD6EA4DDC1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1473,
+  "changeIdentifier": 204,
   "clippingMaskMode": 0,
-  "do_objectID": "80F978DC-9370-4638-B7DE-3256B17769B3",
+  "do_objectID": "08AB3425-738C-45DA-BAC7-5A9A46A29A84",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 218,
-    "width": 742,
-    "x": 1286,
-    "y": 380
+    "height": 315,
+    "width": 1024,
+    "x": 4954,
+    "y": -114
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,15 +49,27 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "C5D78D81-59E5-4244-BA16-F255F0AC9112"
+      "class": "rectangle",
+      "id": "3CEB9AE2-925B-4D5B-AE25-0B7F5966CC18"
     },
     {
       "class": "symbolInstance",
-      "id": "9F94CAFF-89E7-4D28-A85B-A48AB7FA7749"
+      "id": "A1C7AF5D-105F-4FD8-96B0-F026FF5863B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04C3429F-B195-4BB8-8901-E3532A51DCEA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "51ED9311-926A-4DB3-B170-88FA68F59B81"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA5359FF-33B6-4378-AFBD-9CE5A5C903C6"
     }
   ],
-  "name": "fundraising tracking image",
+  "name": "footer",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -71,7 +83,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C5A89A25-AE42-4C02-8D66-9B2D99B7C3F1",
+  "symbolID": "E97C7FCC-BD65-4913-92EA-79A1C7555229",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

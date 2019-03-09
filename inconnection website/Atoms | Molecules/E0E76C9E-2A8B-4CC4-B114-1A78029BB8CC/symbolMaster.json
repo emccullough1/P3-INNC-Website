@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1473,
+  "changeIdentifier": 312,
   "clippingMaskMode": 0,
-  "do_objectID": "80F978DC-9370-4638-B7DE-3256B17769B3",
+  "do_objectID": "E0E76C9E-2A8B-4CC4-B114-1A78029BB8CC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 218,
-    "width": 742,
-    "x": 1286,
-    "y": 380
+    "height": 31,
+    "width": 30,
+    "x": 6078,
+    "y": -109
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,19 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "C5D78D81-59E5-4244-BA16-F255F0AC9112"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9F94CAFF-89E7-4D28-A85B-A48AB7FA7749"
+      "class": "oval",
+      "id": "0552AA28-4AF4-4A22-9838-0021B1555399"
     }
   ],
-  "name": "fundraising tracking image",
-  "nameIsFixed": false,
+  "name": "small icon",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,7 +67,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C5A89A25-AE42-4C02-8D66-9B2D99B7C3F1",
+  "symbolID": "DA0763B7-3D55-4CCF-97DB-AAD0D515CBD3",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

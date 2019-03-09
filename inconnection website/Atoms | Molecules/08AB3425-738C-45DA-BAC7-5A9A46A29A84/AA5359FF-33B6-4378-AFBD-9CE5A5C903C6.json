@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B135F2EF-DD02-4B43-9B28-F118CFDCFAF9",
+  "do_objectID": "AA5359FF-33B6-4378-AFBD-9CE5A5C903C6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 68,
-    "width": 620,
-    "x": 201,
-    "y": 1931
+    "height": 35,
+    "width": 254,
+    "x": 390,
+    "y": 64
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Header 1",
+  "name": "sub text",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "1547B991-3D5B-4666-8F45-D2579EF043E9",
+  "symbolID": "B2EEC6E5-68B4-4021-8F90-1BA79B3EF798",
   "verticalSpacing": 0
 }

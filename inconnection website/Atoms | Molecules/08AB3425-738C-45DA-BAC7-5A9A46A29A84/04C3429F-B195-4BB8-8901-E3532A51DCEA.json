@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B135F2EF-DD02-4B43-9B28-F118CFDCFAF9",
+  "do_objectID": "04C3429F-B195-4BB8-8901-E3532A51DCEA",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "66E1C0A5-8DD6-49D8-AC97-A22E2EFC00A5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 68,
-    "width": 620,
-    "x": 201,
-    "y": 1931
+    "do_objectID": "66859E96-8B82-4B60-9863-5D4FFE0D2728",
+    "height": 51,
+    "width": 51,
+    "x": 487,
+    "y": 121
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Header 1",
+  "name": "social media icon copy",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "C081DEB7-371A-48FA-82BA-E6512EE17B59",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "1547B991-3D5B-4666-8F45-D2579EF043E9",
+  "symbolID": "CFC7281D-3CDC-42F0-9FDB-8A0863B2A43F",
   "verticalSpacing": 0
 }

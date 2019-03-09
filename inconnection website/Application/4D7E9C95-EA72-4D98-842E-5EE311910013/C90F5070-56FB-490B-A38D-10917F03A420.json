@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B135F2EF-DD02-4B43-9B28-F118CFDCFAF9",
+  "do_objectID": "C90F5070-56FB-490B-A38D-10917F03A420",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 68,
-    "width": 620,
-    "x": 201,
-    "y": 1931
+    "height": 31,
+    "width": 30,
+    "x": 71,
+    "y": 6
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Header 1",
+  "name": "INNC icon",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "1547B991-3D5B-4666-8F45-D2579EF043E9",
+  "symbolID": "DA0763B7-3D55-4CCF-97DB-AAD0D515CBD3",
   "verticalSpacing": 0
 }
