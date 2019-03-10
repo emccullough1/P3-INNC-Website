@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "YanoneKaffeesatz-Regular",
               "size": 26
             }
           },
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1B61C26D-A19C-4074-87AA-4C0E7A76F83F",
-    "height": 31,
-    "width": 257,
+    "height": 30,
+    "width": 191,
     "x": 0,
     "y": 4
   },
-  "glyphBounds": "{{1, 6}, {253, 25}}",
+  "glyphBounds": "{{1, 5}, {187, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "YanoneKaffeesatz-Regular",
             "size": 26
           }
         },

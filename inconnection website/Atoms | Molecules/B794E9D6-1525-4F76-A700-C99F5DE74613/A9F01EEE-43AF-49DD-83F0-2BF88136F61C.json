@@ -16,18 +16,46 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "Montserrat-SemiBold",
               "size": 20
             }
           },
+          "kerning": 3.200000047683716,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 5,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-SemiBold",
+              "size": 20
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 5
       }
     ],
     "string": "button"
@@ -54,7 +82,7 @@
     "x": 0,
     "y": 16
   },
-  "glyphBounds": "{{89, 4}, {54, 16}}",
+  "glyphBounds": "{{74, 4}, {85, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -87,10 +115,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "Montserrat-SemiBold",
             "size": 20
           }
         },
+        "kerning": 3.200000047683716,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2

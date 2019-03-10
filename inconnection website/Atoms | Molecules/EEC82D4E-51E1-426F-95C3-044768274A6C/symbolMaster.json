@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "7855B681-6AAF-415B-BD59-24580F5AA1AA",
+  "do_objectID": "EEC82D4E-51E1-426F-95C3-044768274A6C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 573,
-    "width": 455,
-    "x": -367,
-    "y": 419
+    "height": 163,
+    "width": 1036,
+    "x": 6208,
+    "y": -114
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -37,6 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -44,15 +46,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "F3525C4E-7490-49D6-8395-C65B79D18C43"
+      "class": "shapePath",
+      "id": "30041BFE-1E7C-42B9-A6F1-5815B6D05EED"
+    },
+    {
+      "class": "shapePath",
+      "id": "E30D7F4B-87DE-4D29-A082-B2D4C56939D8"
     }
   ],
-  "name": "Case Study",
-  "nameIsFixed": true,
+  "name": "hill",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -65,6 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "90BE17F7-70AA-480E-8CAA-DD9E97146EAF",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

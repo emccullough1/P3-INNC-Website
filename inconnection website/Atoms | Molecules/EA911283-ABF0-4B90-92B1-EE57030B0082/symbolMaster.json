@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 312,
+  "changeIdentifier": 6878,
   "clippingMaskMode": 0,
-  "do_objectID": "E0E76C9E-2A8B-4CC4-B114-1A78029BB8CC",
+  "do_objectID": "EA911283-ABF0-4B90-92B1-EE57030B0082",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 31,
-    "width": 30,
-    "x": 6078,
-    "y": -109
+    "height": 102,
+    "width": 135,
+    "x": 1405,
+    "y": 1004
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -38,7 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -49,11 +49,27 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "52E2B8D8-9E10-4E8F-A0E9-E4757CFE7AE2"
+    },
+    {
+      "class": "rectangle",
+      "id": "7B539388-E074-4D35-B488-E2539DC70A0F"
+    },
+    {
+      "class": "bitmap",
+      "id": "B275618F-CA43-4E26-A118-909C9B2A9511"
+    },
+    {
       "class": "oval",
-      "id": "0552AA28-4AF4-4A22-9838-0021B1555399"
+      "id": "10D9CB99-C5C3-4799-A878-25E40EE290E8"
+    },
+    {
+      "class": "oval",
+      "id": "217908D4-FB0A-47B8-BF2A-271BEC819750"
     }
   ],
-  "name": "small icon",
+  "name": "bus icon",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -67,7 +83,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DA0763B7-3D55-4CCF-97DB-AAD0D515CBD3",
+  "symbolID": "3EBEA3A7-FE94-4648-97F5-F1466CEC7B51",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -53,12 +53,8 @@
       "id": "85D6220A-5A77-4721-9C31-48A0ECE64762"
     },
     {
-      "class": "symbolMaster",
-      "id": "D5ACCD5C-ADCA-474B-A6A3-CC60A497736F"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "86B441E3-DAC6-4150-8190-3767149A69D1"
+      "class": "text",
+      "id": "4AADCE8C-BE08-48FF-B8D9-E3E64E8BF201"
     },
     {
       "class": "symbolMaster",
@@ -111,6 +107,26 @@
     {
       "class": "symbolMaster",
       "id": "E0E76C9E-2A8B-4CC4-B114-1A78029BB8CC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EA911283-ABF0-4B90-92B1-EE57030B0082"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4ACF90BF-68C5-4805-8DB3-82CC0BEB88A4"
+    },
+    {
+      "class": "oval",
+      "id": "0552AA28-4AF4-4A22-9838-0021B1555399"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EEC82D4E-51E1-426F-95C3-044768274A6C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "092C589A-D062-422A-BA84-DF465BBF0300"
     }
   ],
   "name": "Atoms | Molecules",

@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 424,
+  "changeIdentifier": 412,
   "clippingMaskMode": 0,
-  "do_objectID": "D5ACCD5C-ADCA-474B-A6A3-CC60A497736F",
+  "do_objectID": "E0E76C9E-2A8B-4CC4-B114-1A78029BB8CC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 203,
-    "width": 204,
-    "x": 1061,
-    "y": 735
+    "height": 31,
+    "width": 30,
+    "x": 6078,
+    "y": -109
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "68737F1E-082D-4715-AF00-2C653397919D"
-    }
   ],
-  "name": "case study/image",
-  "nameIsFixed": false,
+  "name": "small icon",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -67,7 +63,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E75CD03E-DD71-4739-B05B-80303DF82C6D",
+  "symbolID": "DA0763B7-3D55-4CCF-97DB-AAD0D515CBD3",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

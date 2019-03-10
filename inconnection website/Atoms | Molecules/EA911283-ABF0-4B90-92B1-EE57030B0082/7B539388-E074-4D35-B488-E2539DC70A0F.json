@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "68737F1E-082D-4715-AF00-2C653397919D",
+  "do_objectID": "7B539388-E074-4D35-B488-E2539DC70A0F",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "5F9D4D41-6B48-47D9-B2C7-F30C97789B46",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,10 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 203,
-    "width": 204,
-    "x": 0,
-    "y": 0
+    "do_objectID": "FDC6A36B-D823-4F17-814B-00E1EF855D93",
+    "height": 42,
+    "width": 24,
+    "x": 72,
+    "y": 34
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -78,7 +80,7 @@
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -28,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -93,11 +95,12 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
     ],
+    "do_objectID": "BD2C558D-BD61-4E38-922E-1342B8FFFDF2",
     "endMarkerType": 0,
     "fills": [
       {
@@ -105,16 +108,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.8705882352941177,
+          "green": 0.7411764705882353,
+          "red": 0.403921568627451
         },
-        "fillType": 4,
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/e2110ed2ae89a77c2b245152c9b190b124f8abbe.png",
-          "_ref_class": "MSImageData"
-        },
+        "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -123,35 +121,7 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 10,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0.2231079931972789,
-          "green": 0.2231079931972789,
-          "red": 0.2231079931972789
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 3,
-        "offsetY": 5,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "datasupplier.key": "unsplash_dataprovider_SupplyRandomPhoto",
-    "unsplash": {
-      "unsplash.photo.id": "\"aVn7ZOhF9C0\""
-    }
   }
 }
