@@ -2,11 +2,10 @@
   "_class": "oval",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "217908D4-FB0A-47B8-BF2A-271BEC819750",
+  "do_objectID": "C5D2EF2E-45FC-4F6C-A537-1A158D764C4A",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "91C965A9-519E-423E-875C-C4CDB1E06514",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,11 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FEE8E7B7-5E47-439C-BF1A-F23A9589E45F",
-    "height": 14,
-    "width": 14,
-    "x": 31.64314366733606,
-    "y": 47.64314366733613
+    "height": 11,
+    "width": 11,
+    "x": 17,
+    "y": 41
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -31,7 +29,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Oval Copy",
+  "name": "Oval",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -78,7 +76,7 @@
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -28,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -98,7 +96,6 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "6A41906E-C04E-454B-90F7-C8D8D51A53AA",
     "endMarkerType": 0,
     "fills": [
       {

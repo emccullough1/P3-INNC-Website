@@ -1,11 +1,12 @@
 {
-  "_class": "shapePath",
-  "booleanOperation": 0,
+  "_class": "oval",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "28BD2E29-E2B3-48F2-969A-88CB9801804F",
-  "edited": true,
+  "do_objectID": "9B4EE124-4BEB-4723-AE67-CE801FF0FD57",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A225EC63-8A85-415D-8198-43556B1CC7DF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,10 +17,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 128.2499999999998,
-    "width": 618.6279638978124,
-    "x": 1.13686837721616e-13,
-    "y": 0.6640625000001137
+    "do_objectID": "C1A75345-DE0D-49FA-8E03-79F8E8EDD0C6",
+    "height": 11,
+    "width": 11,
+    "x": 75,
+    "y": 27
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -29,69 +31,49 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Path",
+  "name": "Oval Copy",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.50849753315738433, 0.26428484405457908}",
+      "curveFrom": "{0.77614237490000004, 1}",
       "curveMode": 2,
-      "curveTo": "{0.34270858367893942, 0.76152798547090272}",
+      "curveTo": "{0.22385762510000001, 1}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.42560305841816187, 0.5129064147627409}"
+      "point": "{0.5, 1}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.894501160617305, 0.15492247693535943}",
+      "curveFrom": "{1, 0.22385762510000001}",
       "curveMode": 2,
-      "curveTo": "{0.67102306860083361, 0.45991715399610023}",
+      "curveTo": "{1, 0.77614237490000004}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.7827621146090693, 0.30741981546572983}"
+      "point": "{1, 0.5}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1.0096163681703827, 0}",
+      "curveFrom": "{0.22385762510000001, 0}",
       "curveMode": 2,
-      "curveTo": "{0.95859185621438237, 3.1748167938127767e-18}",
+      "curveTo": "{0.77614237490000004, 0}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.98410411219238259, 0}"
+      "point": "{0.5, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.99418248682253307, 0}",
-      "curveMode": 1,
-      "curveTo": "{0.99418248682253307, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.99418248682253307, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.99418248682253307, 1}",
-      "curveMode": 1,
-      "curveTo": "{0.99418248682253307, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.99418248682253307, 1}"
+      "curveFrom": "{0, 0.77614237490000004}",
+      "curveMode": 2,
+      "curveTo": "{0, 0.22385762510000001}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.5}"
     }
   ],
   "resizingConstraint": 63,
@@ -106,16 +88,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.06859698558045381,
-          "green": 0.732780612244898,
-          "red": 0.3954175002883549
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 0,
-        "thickness": 5
+        "thickness": 1
       }
     ],
+    "do_objectID": "57AFA443-93E8-453D-B8C8-698D8573480A",
     "endMarkerType": 0,
     "fills": [
       {
@@ -123,9 +106,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.06666666666666667,
-          "green": 0.7333333333333333,
-          "red": 0.396078431372549
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,

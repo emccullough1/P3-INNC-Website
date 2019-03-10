@@ -3,10 +3,9 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "B275618F-CA43-4E26-A118-909C9B2A9511",
+  "do_objectID": "B1224737-2024-4566-B06B-C41ED19C4843",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1BF9567F-6F5F-4A13-B935-2E5B6360701F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "F1ACA1FA-7FA2-4922-80A3-5147D6FEADF2",
-    "height": 51,
-    "width": 95,
-    "x": 23.41153551183925,
-    "y": 25.31506285023245
+    "height": 36,
+    "width": 84,
+    "x": 3.872465916544911,
+    "y": 9.908645196812358
   },
   "hasClippingMask": false,
   "image": {
@@ -41,11 +39,10 @@
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -28,
+  "rotation": 13,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AA88BF7B-F4DA-43EE-930E-A99CA97C4B73",
     "endMarkerType": 0,
     "fills": [
       {

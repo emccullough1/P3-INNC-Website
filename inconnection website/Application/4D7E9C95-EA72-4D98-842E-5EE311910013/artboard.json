@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.9607843137254902,
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -27,7 +27,7 @@
     "x": 77,
     "y": 93
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -124,7 +124,59 @@
     },
     {
       "class": "symbolInstance",
+      "id": "89AC1C8D-C6B0-4840-B81C-551B3E4AA553"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BAD5F7C6-2CD7-4DEE-93B3-8517306D586A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDEC0A83-3FAB-4578-A251-EB5F2B3B247D"
+    },
+    {
+      "class": "symbolInstance",
       "id": "00657306-37C3-49C6-92EE-BE5DB6D62987"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C497EFFE-CB40-4549-8709-3E645ECE0773"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF2C42D0-6080-4109-896E-E10728C8E32E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F7C0BC5-C6BB-486D-9BC3-F056DA9F78E8"
+    },
+    {
+      "class": "text",
+      "id": "7F24D324-643D-41E8-9002-B35845C34304"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F824A97-EA90-4BA6-A7BD-DD05D6A26B5A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A12B68EA-2C6A-47C7-9450-93228B686ADB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "838A3170-D46E-4832-836C-616466F14394"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "032D08AA-228C-448E-BCBC-515697538C78"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "759FA92F-6AC9-4AF4-8CC5-D48A715EBCAB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE518CC0-D170-484F-83FD-069D2696E356"
     }
   ],
   "layout": {
@@ -137,7 +189,7 @@
     "gutterWidth": 20,
     "guttersOutside": true,
     "horizontalOffset": 32,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 960

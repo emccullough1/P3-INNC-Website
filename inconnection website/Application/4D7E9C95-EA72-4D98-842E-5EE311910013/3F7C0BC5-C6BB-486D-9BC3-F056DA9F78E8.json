@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "00657306-37C3-49C6-92EE-BE5DB6D62987",
+  "do_objectID": "3F7C0BC5-C6BB-486D-9BC3-F056DA9F78E8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,20 +15,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 129,
-    "width": 619,
-    "x": 202,
-    "y": 942
+    "height": 32,
+    "width": 70,
+    "x": 304,
+    "y": 977
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "hill",
+  "name": "tilted title",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BB66E1D8-9FDD-4C3E-8CA2-7D567F557634",
+  "symbolID": "8D644363-D444-412D-A726-C5F2BC8532E0",
   "verticalSpacing": 0
 }

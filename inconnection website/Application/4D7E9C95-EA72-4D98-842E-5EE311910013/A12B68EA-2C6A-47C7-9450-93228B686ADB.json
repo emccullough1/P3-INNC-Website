@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "00657306-37C3-49C6-92EE-BE5DB6D62987",
+  "do_objectID": "A12B68EA-2C6A-47C7-9450-93228B686ADB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,20 +15,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 129,
-    "width": 619,
-    "x": 202,
-    "y": 942
+    "height": 46,
+    "width": 25,
+    "x": 768,
+    "y": 930
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "hill",
+  "name": "tree light",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BB66E1D8-9FDD-4C3E-8CA2-7D567F557634",
+  "symbolID": "2DF5AC26-D4B5-42BC-816C-CBD550FA58E4",
   "verticalSpacing": 0
 }

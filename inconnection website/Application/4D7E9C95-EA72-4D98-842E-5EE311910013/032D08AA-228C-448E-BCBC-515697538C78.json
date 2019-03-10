@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "00657306-37C3-49C6-92EE-BE5DB6D62987",
+  "do_objectID": "032D08AA-228C-448E-BCBC-515697538C78",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "FA427FBE-561E-4C79-A55F-8D77973DB3FE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,20 +16,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 129,
-    "width": 619,
-    "x": 202,
-    "y": 942
+    "do_objectID": "3A9597F3-037C-485F-AADC-ACA989CFD803",
+    "height": 56,
+    "width": 27,
+    "x": 715,
+    "y": 946
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "hill",
+  "name": "tree light copy",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "F603CBDA-68C5-432D-81C2-A6A130E19119",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BB66E1D8-9FDD-4C3E-8CA2-7D567F557634",
+  "symbolID": "2DF5AC26-D4B5-42BC-816C-CBD550FA58E4",
   "verticalSpacing": 0
 }

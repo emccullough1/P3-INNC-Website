@@ -1,12 +1,12 @@
 {
-  "_class": "rectangle",
+  "_class": "triangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "52E2B8D8-9E10-4E8F-A0E9-E4757CFE7AE2",
+  "do_objectID": "AAFC8194-E56A-48EE-B45D-8F260D221BED",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "457C0049-6374-4FD0-8811-633AA1067C62",
+    "do_objectID": "DA02EA3F-D2F6-4336-BD3C-0347DA925906",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,48 +14,37 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "089F71A3-3515-46A5-930F-8E6F8E695FFA",
-    "height": 38,
-    "width": 73,
-    "x": 22,
-    "y": 7
+    "do_objectID": "585A2D82-5CF2-40CD-9A31-4FC05C4A1D0D",
+    "height": 15,
+    "width": 17,
+    "x": 6,
+    "y": 1
   },
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
+  "isEquilateral": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Triangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 0}",
+      "curveFrom": "{0.5, 0}",
       "curveMode": 1,
-      "curveTo": "{0, 0}",
+      "curveTo": "{0.5, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
+      "point": "{0.5, 0}"
     },
     {
       "_class": "curvePoint",
@@ -80,7 +69,7 @@
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -28,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -96,11 +85,11 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 1,
+        "position": 0,
         "thickness": 1
       }
     ],
-    "do_objectID": "B1F4D63F-90AE-4FA4-9667-42DA809ECBC1",
+    "do_objectID": "166E366D-4705-4CC0-808B-DD29481073F8",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,9 +97,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8697119472789115,
-          "green": 0.7402893925568315,
-          "red": 0.404486060707723
+          "blue": 0.1569925377821584,
+          "green": 0.6045918367346939,
+          "red": 0.4367420996274931
         },
         "fillType": 0,
         "isEnabled": true,

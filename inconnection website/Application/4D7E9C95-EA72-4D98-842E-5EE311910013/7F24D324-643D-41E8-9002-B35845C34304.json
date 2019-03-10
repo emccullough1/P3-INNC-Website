@@ -16,27 +16,27 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "YanoneKaffeesatz-Regular",
-              "size": 60
+              "name": "Montserrat-Bold",
+              "size": 21
             }
           },
-          "kerning": 5.099999904632568,
+          "kerning": 3.200000047683716,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 76,
-            "minimumLineHeight": 76
-          }
+            "alignment": 2
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 29,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "  Northwest Nature Connection"
+    "string": "GOAL!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AB2866F1-5923-4260-8D03-1BDDA965DC9D",
+  "do_objectID": "7F24D324-643D-41E8-9002-B35845C34304",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 155,
-    "width": 518,
-    "x": 261,
-    "y": 118
+    "height": 37,
+    "width": 126,
+    "x": 705,
+    "y": 858
   },
-  "glyphBounds": "{{1, 17}, {434, 122}}",
+  "glyphBounds": "{{21, 5}, {81, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Northwest Nature Con",
+  "name": "GOAL!",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,16 +88,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "YanoneKaffeesatz-Regular",
-            "size": 60
+            "name": "Montserrat-Bold",
+            "size": 21
           }
         },
-        "kerning": 5.099999904632568,
+        "kerning": 3.200000047683716,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 76,
-          "minimumLineHeight": 76
-        }
+          "alignment": 2
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
