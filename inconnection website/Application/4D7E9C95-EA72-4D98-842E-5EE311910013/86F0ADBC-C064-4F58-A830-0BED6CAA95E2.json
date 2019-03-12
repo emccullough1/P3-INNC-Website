@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 250,
     "width": 220,
-    "x": 121,
+    "x": 120,
     "y": 2023
   },
   "hasClippingMask": false,
@@ -31,6 +31,22 @@
   "name": "past event image + title",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BDD52DC-9472-41DC-8FD1-89F8B4D4C9B7",
+      "overrideName": "87F30928-0CCA-4294-9B65-31A996C1CECF_stringValue",
+      "value": "Stream Girls Train the Trainer"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66038BBC-7B90-4EC5-A32D-E4DCC41290DC",
+      "overrideName": "148EF88D-CD45-4F39-A0AE-2C0AC9FFB8E9_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/96e2de3c3fcbfd950ff0c689ef9847cb54544403.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C90F5070-56FB-490B-A38D-10917F03A420",
+  "do_objectID": "6C8C467A-04A9-4905-8E7B-161BFC71712A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 31,
-    "width": 30,
-    "x": 71,
-    "y": 6
+    "height": 344,
+    "width": 1024,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "INNC icon",
+  "name": "shaded overlay",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DA0763B7-3D55-4CCF-97DB-AAD0D515CBD3",
+  "symbolID": "A3F0DDFB-FD70-48A9-8380-6A68C0D48117",
   "verticalSpacing": 0
 }

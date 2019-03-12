@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 344,
     "width": 1024,
-    "x": -1,
-    "y": 42
+    "x": 0,
+    "y": 41
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,22 @@
   "name": "Header image",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48F486EA-7B04-492E-A82E-67AAFADB9CD8",
+      "overrideName": "AB2866F1-5923-4260-8D03-1BDDA965DC9D_stringValue",
+      "value": "Explore, Engage, Connect"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0CE20A4-F831-4460-9809-A98A95696D1C",
+      "overrideName": "E3B1C013-237C-4DD6-8057-231734F4ECB4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/09ba168afe201543b867d7fdd5a0176b1a75e35e.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

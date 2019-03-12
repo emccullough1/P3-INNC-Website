@@ -9,20 +9,21 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.9551179846938775,
+            "green": 0.9551179846938775,
+            "red": 0.9551179846938775
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "YanoneKaffeesatz-Regular",
+              "name": "AvenirNext-Regular",
               "size": 60
             }
           },
           "kerning": 5.099999904632568,
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 2,
             "maximumLineHeight": 76,
             "minimumLineHeight": 76
           }
@@ -51,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 155,
-    "width": 518,
-    "x": 261,
-    "y": 118
+    "width": 611,
+    "x": 189,
+    "y": 112
   },
-  "glyphBounds": "{{1, 17}, {434, 122}}",
+  "glyphBounds": "{{48, 11}, {552, 124}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -81,20 +82,21 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.9551179846938775,
+          "green": 0.9551179846938775,
+          "red": 0.9551179846938775
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "YanoneKaffeesatz-Regular",
+            "name": "AvenirNext-Regular",
             "size": 60
           }
         },
         "kerning": 5.099999904632568,
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 2,
           "maximumLineHeight": 76,
           "minimumLineHeight": 76
         }

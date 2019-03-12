@@ -31,6 +31,12 @@
   "name": "Button",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0DC31F4F-D829-4928-871F-61729E330041",
+      "overrideName": "A9F01EEE-43AF-49DD-83F0-2BF88136F61C_stringValue",
+      "value": "Donate"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

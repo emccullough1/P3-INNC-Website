@@ -31,6 +31,12 @@
   "name": "text",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "57A48677-74DD-4520-B1C2-5954168ABBFA",
+      "overrideName": "5F7B968C-891A-41FF-A44F-94315795E797_stringValue",
+      "value": "We believe that all students, no matter what financial status, should have equal opportunity to experience the beautiful nature around Spokane and connect what they see in the classroom to the real world. Please donate towards our $500 grants to gift a field trip to a class! "
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

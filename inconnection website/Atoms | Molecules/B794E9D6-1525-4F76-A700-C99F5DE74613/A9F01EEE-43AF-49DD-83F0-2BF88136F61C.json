@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.8593276970199578,
+            "green": 0.8593276970199578,
+            "red": 0.8714657738095238
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-SemiBold",
-              "size": 20
+              "name": "AvenirNext-Regular",
+              "size": 30
             }
           },
           "kerning": 3.200000047683716,
@@ -36,15 +36,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.8593276970199578,
+            "green": 0.8593276970199578,
+            "red": 0.8714657738095238
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-SemiBold",
-              "size": 20
+              "name": "AvenirNext-Regular",
+              "size": 30
             }
           },
           "kerning": 0,
@@ -77,12 +77,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 41,
     "width": 233,
     "x": 0,
-    "y": 16
+    "y": 6
   },
-  "glyphBounds": "{{74, 4}, {85, 16}}",
+  "glyphBounds": "{{65, 7}, {103, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -108,15 +108,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.8593276970199578,
+          "green": 0.8593276970199578,
+          "red": 0.8714657738095238
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-SemiBold",
-            "size": 20
+            "name": "AvenirNext-Regular",
+            "size": 30
           }
         },
         "kerning": 3.200000047683716,

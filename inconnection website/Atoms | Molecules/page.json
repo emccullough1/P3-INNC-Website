@@ -74,6 +74,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "E9EA1398-78C7-44DC-8FFA-C1F12CE2C80B"
+    },
+    {
+      "class": "symbolMaster",
       "id": "5F2BB4E0-35DE-44AB-A022-622D02324D79"
     },
     {
@@ -139,6 +143,14 @@
     {
       "class": "symbolMaster",
       "id": "68D939E1-16FC-4232-A811-E06D17A50052"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0F06F83D-265A-4561-8C11-87EE36681702"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A87C3B39-6F0D-442E-B583-27CD3FA074A5"
     }
   ],
   "name": "Atoms | Molecules",

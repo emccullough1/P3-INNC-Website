@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 68,
-    "width": 181,
-    "x": 202,
-    "y": 1211
+    "width": 262,
+    "x": 366,
+    "y": 1206
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,12 @@
   "name": "Header 1",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7CE88E36-53E8-4844-8D2D-2F8095AFDBA2",
+      "overrideName": "19EB50C1-E327-4A49-ACF7-708F6AEF97E8_stringValue",
+      "value": "Who We Are"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,6 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "1547B991-3D5B-4666-8F45-D2579EF043E9",
+  "symbolID": "98F5A91C-1B38-4A1D-A094-F19813078204",
   "verticalSpacing": 0
 }

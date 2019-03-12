@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 68,
-    "width": 181,
-    "x": 412,
+    "width": 327,
+    "x": 325,
     "y": 454
   },
   "hasClippingMask": false,
@@ -31,6 +31,12 @@
   "name": "Header 1",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "25602E63-9461-489B-AD8D-8597FBD6B6C9",
+      "overrideName": "CC6D3DD3-2E8A-47DC-BAFE-5187580BA565_stringValue",
+      "value": "Why We're Here"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

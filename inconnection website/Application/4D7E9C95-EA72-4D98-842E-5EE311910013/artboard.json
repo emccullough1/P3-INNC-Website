@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9607843137254902,
-    "green": 0.9607843137254902,
-    "red": 0.9607843137254902
+    "blue": 0.9998809695243835,
+    "green": 1,
+    "red": 0.9998916983604431
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -52,10 +52,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "38BA1374-AED6-48EC-82C3-2F2A197F005B"
-    },
-    {
-      "class": "symbolInstance",
       "id": "6100D576-A511-442A-A6C1-98B68463B53A"
     },
     {
@@ -67,8 +63,16 @@
       "id": "1A873455-14DA-48FE-A1B9-38E4A37AED26"
     },
     {
-      "class": "rectangle",
-      "id": "ACF84089-E54B-4EF5-A7DF-A04F8291B343"
+      "class": "symbolInstance",
+      "id": "83E51F85-90C5-4464-A2B5-08BD19E761D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38BA1374-AED6-48EC-82C3-2F2A197F005B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56DBD491-98D5-431F-BEE5-41D603681A24"
     },
     {
       "class": "symbolInstance",
@@ -177,6 +181,10 @@
     {
       "class": "symbolInstance",
       "id": "CE518CC0-D170-484F-83FD-069D2696E356"
+    },
+    {
+      "class": "bitmap",
+      "id": "5DBBE2F5-6F18-4316-8A5D-1480364A8AB9"
     }
   ],
   "layout": {

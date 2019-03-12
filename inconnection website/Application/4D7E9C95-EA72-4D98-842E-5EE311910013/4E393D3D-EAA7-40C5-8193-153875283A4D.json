@@ -19,7 +19,7 @@
     "do_objectID": "B76080DD-A287-4A53-BBC3-1B058382D6A2",
     "height": 250,
     "width": 220,
-    "x": 401,
+    "x": 400,
     "y": 2022
   },
   "hasClippingMask": false,
@@ -33,6 +33,22 @@
   "name": "past event image + title copy 2",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79A585A6-7C21-4D4C-9B41-68ECD2D7D8EE",
+      "overrideName": "148EF88D-CD45-4F39-A0AE-2C0AC9FFB8E9_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5fa3efed57aecc17dc7379caa1777269c9a3edc4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C32CAB1B-867B-4CD6-9F49-43D9BBA81543",
+      "overrideName": "87F30928-0CCA-4294-9B65-31A996C1CECF_stringValue",
+      "value": "Preparing for Flight Open House"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

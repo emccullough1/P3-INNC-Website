@@ -31,6 +31,22 @@
   "name": "nav",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D825BD25-8A1E-4BA5-9A42-639D9790E202",
+      "overrideName": "C6169C52-BD7B-4889-9503-30390FC4050E_stringValue",
+      "value": "Inland Northwest Nature Connection"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "60C53916-6065-44C1-A564-E4621797846E",
+      "overrideName": "370E8F2A-3604-4B9E-B1E1-86DFD6244450/5D915B4B-B11F-4970-8BC1-FA716F243D9D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/64818f8e9471d91e2391e7c2282c30f08a931489.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

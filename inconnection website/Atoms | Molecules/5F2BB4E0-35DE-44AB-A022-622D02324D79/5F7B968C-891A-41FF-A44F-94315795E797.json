@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2549019607843137,
+            "green": 0.2549019607843137,
+            "red": 0.2549019607843137
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "WorkSans-Regular",
+              "name": "AvenirNext-Regular",
               "size": 20
             }
           },
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 255,
+        "length": 253,
         "location": 0
       }
     ],
-    "string": "Bitters swag af sustainable post-ironic marfa tattooed. Activated charcoal wayfarers normcore, fam pabst dreamcatcher actually hashtag cred celiac. DIY semiotics banh mi literally truffaut pop-up whatever. Food truck PBR&B lyft hexagon twee. Cray portland"
+    "string": "Bitters swag af sustainable post-ironic marfa tattooed. Activated charcoal wayfarers normcore, fam pabst dreamcatcher actually hashtag cred celiac.   semiotics banh mi literally truffaut pop-up whatever. Food truck PBR&B lyft hexagon twee. Cray portland"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,7 +56,7 @@
     "x": 0,
     "y": -1
   },
-  "glyphBounds": "{{2, 9}, {615, 160}}",
+  "glyphBounds": "{{22, 8}, {575, 126}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -82,14 +82,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2549019607843137,
+          "green": 0.2549019607843137,
+          "red": 0.2549019607843137
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "WorkSans-Regular",
+            "name": "AvenirNext-Regular",
             "size": 20
           }
         },

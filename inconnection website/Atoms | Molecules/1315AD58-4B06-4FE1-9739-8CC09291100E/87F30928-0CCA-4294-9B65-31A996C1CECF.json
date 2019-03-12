@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.9568627450980391,
+            "green": 0.9568627450980391,
+            "red": 0.9568627450980391
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "WorkSans-Regular",
+              "name": "AvenirNext-Regular",
               "size": 22
             }
           },
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
+    "height": 65,
     "width": 174,
     "x": 24,
     "y": 105
   },
-  "glyphBounds": "{{33, 3}, {108, 18}}",
+  "glyphBounds": "{{38, 5}, {98, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -80,14 +80,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.9568627450980391,
+          "green": 0.9568627450980391,
+          "red": 0.9568627450980391
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "WorkSans-Regular",
+            "name": "AvenirNext-Regular",
             "size": 22
           }
         },

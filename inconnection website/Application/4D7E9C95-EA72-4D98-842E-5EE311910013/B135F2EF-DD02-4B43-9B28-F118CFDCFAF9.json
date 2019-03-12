@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 68,
-    "width": 181,
-    "x": 422,
-    "y": 1933
+    "width": 277,
+    "x": 371,
+    "y": 1931
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,12 @@
   "name": "Header 1",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01EEFF22-84C0-42FB-9FEA-10FA73E403CE",
+      "overrideName": "CC6D3DD3-2E8A-47DC-BAFE-5187580BA565_stringValue",
+      "value": "Past Events"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

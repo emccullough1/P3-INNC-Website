@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "YanoneKaffeesatz-Regular",
+              "name": "AvenirNext-Regular",
               "size": 20
             }
           },
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 23,
-    "width": 193,
+    "height": 27,
+    "width": 434,
     "x": 109,
     "y": 9
   },
-  "glyphBounds": "{{0, 4}, {99, 19}}",
+  "glyphBounds": "{{0, 4}, {148, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -87,7 +87,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "YanoneKaffeesatz-Regular",
+            "name": "AvenirNext-Regular",
             "size": 20
           }
         },

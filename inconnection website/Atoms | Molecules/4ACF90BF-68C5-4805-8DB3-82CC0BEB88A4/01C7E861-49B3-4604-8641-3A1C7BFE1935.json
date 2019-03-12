@@ -33,10 +33,20 @@
   "name": "INNC icon Copy 3",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "49A4638D-457A-4C3E-9F22-03017B26E026",
+      "overrideName": "5D915B4B-B11F-4970-8BC1-FA716F243D9D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/88237b1e63bb29b9e9a83ac3c97a78ddfc386075.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": 90,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {

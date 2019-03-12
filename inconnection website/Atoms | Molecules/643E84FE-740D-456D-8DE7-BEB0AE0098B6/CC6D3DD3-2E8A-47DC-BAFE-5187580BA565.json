@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Bold",
+              "name": "AvenirNext-Regular",
               "size": 40
             }
           },
@@ -54,7 +54,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{17, 9}, {149, 31}}",
+  "glyphBounds": "{{26, 9}, {132, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -87,7 +87,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Bold",
+            "name": "AvenirNext-Regular",
             "size": 40
           }
         },

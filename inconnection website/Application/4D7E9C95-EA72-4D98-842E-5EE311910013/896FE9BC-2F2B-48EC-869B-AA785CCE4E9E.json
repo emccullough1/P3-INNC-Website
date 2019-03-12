@@ -31,6 +31,12 @@
   "name": "Button",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F61E9BC-0550-46A8-A612-71E0F1427217",
+      "overrideName": "A9F01EEE-43AF-49DD-83F0-2BF88136F61C_stringValue",
+      "value": "Sign "
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
