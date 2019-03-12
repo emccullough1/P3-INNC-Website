@@ -31,6 +31,16 @@
   "name": "founder image",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3465EC23-A9E1-459C-9153-67D97F6A190E",
+      "overrideName": "F0CD13B0-EB6C-4C3D-A287-2F169DDFD3A1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a9c51ca5488f42ccfa3865e4cc5373fb842b62f5.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
