@@ -33,6 +33,18 @@
   "name": "founder bio molecule copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0113F15A-B71C-40FB-AC39-DADE7D87A757",
+      "overrideName": "FBC8CC55-238D-46CC-BDB4-E949365B2A8E/EC20430C-4A0F-4E09-8E9D-B9E1A42E62A7_stringValue",
+      "value": "Amy"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "37F3B68D-7AAE-49BF-99BB-82D4443E5A8D",
+      "overrideName": "5B11AE5C-A250-40F8-A75B-7FC70309ED39/A05BDFAC-F70F-460A-9353-2AF60C686984_stringValue",
+      "value": " "
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
