@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 878,
+  "changeIdentifier": 1850,
   "clippingMaskMode": 0,
   "do_objectID": "08AB3425-738C-45DA-BAC7-5A9A46A29A84",
   "exportOptions": {
@@ -46,27 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "3CEB9AE2-925B-4D5B-AE25-0B7F5966CC18"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A1C7AF5D-105F-4FD8-96B0-F026FF5863B5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "04C3429F-B195-4BB8-8901-E3532A51DCEA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "51ED9311-926A-4DB3-B170-88FA68F59B81"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AA5359FF-33B6-4378-AFBD-9CE5A5C903C6"
     }
   ],
   "name": "footer",

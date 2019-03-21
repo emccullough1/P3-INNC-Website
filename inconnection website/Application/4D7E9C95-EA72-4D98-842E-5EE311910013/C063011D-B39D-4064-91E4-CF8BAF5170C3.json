@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C063011D-B39D-4064-91E4-CF8BAF5170C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1ECEA41-6B85-46B3-A19F-F1E96E6F78E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "22B1648E-112F-4D3D-A2A8-FBD1A930E864",
+    "height": 63,
+    "width": 35,
+    "x": 764,
+    "y": 982
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tree dark copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7299E7E1-AB45-42C2-B094-DDFC6EA83B73",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "85FB777A-2030-4DA5-AA6E-5D687D9D79BC",
+  "verticalSpacing": 0
+}

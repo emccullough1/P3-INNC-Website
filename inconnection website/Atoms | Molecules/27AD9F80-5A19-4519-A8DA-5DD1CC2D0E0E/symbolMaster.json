@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 716,
+  "changeIdentifier": 5,
   "clippingMaskMode": 0,
-  "do_objectID": "7EF7A71A-DFAC-4C0F-B7FA-02D7E90562D2",
+  "do_objectID": "27AD9F80-5A19-4519-A8DA-5DD1CC2D0E0E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 35,
-    "width": 254,
-    "x": -130,
-    "y": 70
+    "height": 31,
+    "width": 113,
+    "x": 5054,
+    "y": -114
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,11 +49,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "768C4307-1A4D-4037-AC26-D5F7B1AE8D35"
+      "class": "symbolInstance",
+      "id": "2B0BD85A-6ADB-4FFE-9ED8-13D33F2E3AA9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3D20D9E-CDD3-4799-B609-1E29E3D1826F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "01C7E861-49B3-4604-8641-3A1C7BFE1935"
     }
   ],
-  "name": "sub text",
+  "name": "social media icons",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -67,7 +75,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B2EEC6E5-68B4-4021-8F90-1BA79B3EF798",
+  "symbolID": "4C35AB1F-8F8D-472C-A968-3F4182D30C12",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

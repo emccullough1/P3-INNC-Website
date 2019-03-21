@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D3D20D9E-CDD3-4799-B609-1E29E3D1826F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B81D6F9-723E-4663-8E59-A479FA44FE5C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23684E6A-A23F-4336-AFEC-E35013F402FD",
+    "height": 31,
+    "width": 30,
+    "x": 42,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "INNC icon Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66EBA832-6F25-4CEE-971E-DB72659E52E1",
+      "overrideName": "5D915B4B-B11F-4970-8BC1-FA716F243D9D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cd4071f1085f49a82cf9a0b31f2ee0c037de9a04.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18390268-F953-4B86-8027-871DF5A3F8DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DA0763B7-3D55-4CCF-97DB-AAD0D515CBD3",
+  "verticalSpacing": 0
+}

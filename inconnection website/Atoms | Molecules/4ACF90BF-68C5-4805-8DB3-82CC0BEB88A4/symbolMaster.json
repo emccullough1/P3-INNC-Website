@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 156,
+  "changeIdentifier": 307,
   "clippingMaskMode": 0,
   "do_objectID": "4ACF90BF-68C5-4805-8DB3-82CC0BEB88A4",
   "exportOptions": {
@@ -58,15 +58,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "2B0BD85A-6ADB-4FFE-9ED8-13D33F2E3AA9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D3D20D9E-CDD3-4799-B609-1E29E3D1826F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "01C7E861-49B3-4604-8641-3A1C7BFE1935"
+      "id": "3FBF48EA-3CBD-4281-B06E-30520A469BC5"
     }
   ],
   "name": "nav",

@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 68,
-    "width": 181,
-    "x": 422,
-    "y": 2455
+    "width": 251,
+    "x": 392,
+    "y": 2421
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,12 @@
   "name": "Header 1",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "484FAD10-35C7-4F1C-B149-2A5DE1C748F2",
+      "overrideName": "CC6D3DD3-2E8A-47DC-BAFE-5187580BA565_stringValue",
+      "value": "Get Involved!"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

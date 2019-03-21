@@ -28,11 +28,11 @@
             "minimumLineHeight": 76
           }
         },
-        "length": 29,
+        "length": 27,
         "location": 0
       }
     ],
-    "string": "  Northwest Nature Connection"
+    "string": "Northwest Nature Connection"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 155,
-    "width": 611,
-    "x": 189,
+    "width": 610,
+    "x": 208,
     "y": 112
   },
-  "glyphBounds": "{{48, 11}, {552, 124}}",
+  "glyphBounds": "{{28, 11}, {551, 124}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

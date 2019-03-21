@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "01C7E861-49B3-4604-8641-3A1C7BFE1935",
+  "do_objectID": "3403A84A-0D0B-4E85-B972-4CC8B5EB5308",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "08177FC2-DDDA-4654-9145-4CA3AE530E02",
+    "do_objectID": "C67AD2EF-1BCE-45A4-BB8B-5AE5FA076B6A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "67729A5F-1ED1-4677-8F9A-B2B165F74717",
-    "height": 31,
-    "width": 30,
-    "x": 829,
-    "y": 6
+    "do_objectID": "9D6BA763-EB1C-46DB-87D1-4CCFB0444EA5",
+    "height": 50,
+    "width": 26,
+    "x": 810,
+    "y": 998
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,33 +30,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "INNC icon Copy 3",
+  "name": "tree medium copy 3",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "49A4638D-457A-4C3E-9F22-03017B26E026",
-      "overrideName": "5D915B4B-B11F-4970-8BC1-FA716F243D9D_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/88237b1e63bb29b9e9a83ac3c97a78ddfc386075.png",
-        "_ref_class": "MSImageData"
-      }
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 90,
+  "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3BB93803-9562-484C-A183-52B373A0A1DB",
+    "do_objectID": "C00E7F74-29E4-4791-BBA1-C8923303DABB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DA0763B7-3D55-4CCF-97DB-AAD0D515CBD3",
+  "symbolID": "2DF5AC26-D4B5-42BC-816C-CBD550FA58E4",
   "verticalSpacing": 0
 }

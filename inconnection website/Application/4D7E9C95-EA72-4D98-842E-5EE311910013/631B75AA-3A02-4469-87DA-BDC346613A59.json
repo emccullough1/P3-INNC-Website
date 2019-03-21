@@ -18,7 +18,7 @@
     "height": 174,
     "width": 619,
     "x": 203,
-    "y": 2536
+    "y": 2493
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,12 @@
   "name": "text",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9DB88E19-2938-4424-834D-2A06C2AC239E",
+      "overrideName": "5F7B968C-891A-41FF-A44F-94315795E797_stringValue",
+      "value": "If you would like to assist with community outreach, become an outdoor education leader or special projects volunteers, please sign up below. "
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

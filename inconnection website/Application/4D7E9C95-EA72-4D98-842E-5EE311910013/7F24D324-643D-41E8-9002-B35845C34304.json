@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Bold",
-              "size": 21
+              "name": "AvenirNext-Bold",
+              "size": 22
             }
           },
           "kerning": 3.200000047683716,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 37,
-    "width": 126,
-    "x": 705,
-    "y": 858
+    "width": 111,
+    "x": 688,
+    "y": 853
   },
-  "glyphBounds": "{{21, 5}, {81, 16}}",
+  "glyphBounds": "{{13, 6}, {81, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -81,15 +81,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Bold",
-            "size": 21
+            "name": "AvenirNext-Bold",
+            "size": 22
           }
         },
         "kerning": 3.200000047683716,
@@ -99,7 +99,7 @@
         },
         "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },

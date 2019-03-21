@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
+              "name": "AvenirNext-Medium",
               "size": 22
             }
           },
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 65,
-    "width": 174,
-    "x": 24,
-    "y": 105
+    "height": 73,
+    "width": 203,
+    "x": 8,
+    "y": 170
   },
-  "glyphBounds": "{{38, 5}, {98, 18}}",
+  "glyphBounds": "{{52, 5}, {99, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -87,7 +87,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
+            "name": "AvenirNext-Medium",
             "size": 22
           }
         },

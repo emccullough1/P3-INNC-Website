@@ -1,11 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "04C3429F-B195-4BB8-8901-E3532A51DCEA",
+  "do_objectID": "0E2FFABD-D220-4CA7-B6DD-828E1718A775",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "66E1C0A5-8DD6-49D8-AC97-A22E2EFC00A5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,40 +13,39 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "66859E96-8B82-4B60-9863-5D4FFE0D2728",
-    "height": 51,
-    "width": 51,
-    "x": 487,
-    "y": 121
+    "constrainProportions": true,
+    "height": 50,
+    "width": 50,
+    "x": -609,
+    "y": 1760
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/b205e2a2c659195a27b84272f016ba234d398a24.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "social media icon copy",
+  "name": "facebook-logo-circle-black-transparent",
   "nameIsFixed": false,
-  "overrideValues": [
-  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C081DEB7-371A-48FA-82BA-E6512EE17B59",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "CFC7281D-3CDC-42F0-9FDB-8A0863B2A43F",
-  "verticalSpacing": 0
+  }
 }

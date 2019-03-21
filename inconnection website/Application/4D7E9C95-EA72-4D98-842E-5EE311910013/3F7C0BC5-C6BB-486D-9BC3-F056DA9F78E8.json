@@ -18,7 +18,7 @@
     "height": 32,
     "width": 70,
     "x": 304,
-    "y": 977
+    "y": 958
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,12 @@
   "name": "tilted title",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "73E32B02-8D64-4E4E-BD87-858A50D2CAD8",
+      "overrideName": "54F88803-3933-414C-9273-015F014D4702_stringValue",
+      "value": "$178"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

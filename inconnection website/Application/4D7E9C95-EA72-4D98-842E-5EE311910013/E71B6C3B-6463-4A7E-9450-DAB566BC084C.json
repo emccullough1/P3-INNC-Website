@@ -18,7 +18,7 @@
     "height": 315,
     "width": 1024,
     "x": 0,
-    "y": 2865
+    "y": 2799
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,42 @@
   "name": "footer",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8169CC6-593C-465B-BC0E-51227DF75147",
+      "overrideName": "AA5359FF-33B6-4378-AFBD-9CE5A5C903C6/768C4307-1A4D-4037-AC26-D5F7B1AE8D35_stringValue",
+      "value": "Follow Us"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "45E7CA32-413A-4279-9B99-7EC58DF0A203",
+      "overrideName": "51ED9311-926A-4DB3-B170-88FA68F59B81/8CA0E36C-522C-4171-826D-9F68D57281DB/5D915B4B-B11F-4970-8BC1-FA716F243D9D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b205e2a2c659195a27b84272f016ba234d398a24.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4243D025-81E1-4C39-9457-A7C613C6835A",
+      "overrideName": "04C3429F-B195-4BB8-8901-E3532A51DCEA/8CA0E36C-522C-4171-826D-9F68D57281DB/5D915B4B-B11F-4970-8BC1-FA716F243D9D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b5eb1baef4741e104a6b4031d974828eef2155a8.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6FA96A11-1E0D-4798-9DCC-1C636F6E569E",
+      "overrideName": "A1C7AF5D-105F-4FD8-96B0-F026FF5863B5/8CA0E36C-522C-4171-826D-9F68D57281DB/5D915B4B-B11F-4970-8BC1-FA716F243D9D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f9104b067c15b0c4994313fd9c1a8fd68bdacb28.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,6 +75,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

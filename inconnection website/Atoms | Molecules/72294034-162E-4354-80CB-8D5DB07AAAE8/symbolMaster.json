@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2297,
+  "changeIdentifier": 2332,
   "clippingMaskMode": 0,
   "do_objectID": "72294034-162E-4354-80CB-8D5DB07AAAE8",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 1042
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "triangle",

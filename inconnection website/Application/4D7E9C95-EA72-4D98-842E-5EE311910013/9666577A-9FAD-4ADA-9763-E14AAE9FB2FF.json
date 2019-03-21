@@ -19,8 +19,8 @@
     "do_objectID": "3CA839DD-469F-4FA1-983F-C3F871BFEE00",
     "height": 250,
     "width": 220,
-    "x": 684,
-    "y": 2022
+    "x": 123,
+    "y": 1985
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -39,7 +39,7 @@
       "overrideName": "148EF88D-CD45-4F39-A0AE-2C0AC9FFB8E9_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/6e4a4402125a9b71f3bdf655ac8c70913ec99dac.png",
+        "_ref": "images/cd99239d5daa292ccd7d26a57356fc608f1183f3.png",
         "_ref_class": "MSImageData"
       }
     },
@@ -47,7 +47,7 @@
       "_class": "overrideValue",
       "do_objectID": "D9C7BCC9-3672-49C2-9C35-545177959B5E",
       "overrideName": "87F30928-0CCA-4294-9B65-31A996C1CECF_stringValue",
-      "value": "Visit to Clark Barns"
+      "value": "Hike/Snowshoe Mica Peak"
     }
   ],
   "resizingConstraint": 63,

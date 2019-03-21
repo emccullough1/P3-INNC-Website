@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6100D576-A511-442A-A6C1-98B68463B53A",
+  "do_objectID": "8CA0E36C-522C-4171-826D-9F68D57281DB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 218,
-    "width": 620,
-    "x": 201,
-    "y": 856
+    "height": 50,
+    "width": 50,
+    "x": 0,
+    "y": 1
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -26,9 +26,9 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "fundraising tracking image",
+  "name": "small icon",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C5A89A25-AE42-4C02-8D66-9B2D99B7C3F1",
+  "symbolID": "DA0763B7-3D55-4CCF-97DB-AAD0D515CBD3",
   "verticalSpacing": 0
 }

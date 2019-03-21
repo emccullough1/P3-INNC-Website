@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Medium",
+              "name": "AvenirNext-Regular",
               "size": 16
             }
           },
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
+    "height": 22,
     "width": 66,
-    "x": 3.206382509850087,
-    "y": 7.12215509017879
+    "x": 3.492596002914901,
+    "y": 7.094595865350286
   },
-  "glyphBounds": "{{8, 1}, {47, 16}}",
+  "glyphBounds": "{{8, 3}, {46, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -88,7 +88,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Medium",
+            "name": "AvenirNext-Regular",
             "size": 16
           }
         },

@@ -37,10 +37,6 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "7EF7A71A-DFAC-4C0F-B7FA-02D7E90562D2"
-    },
-    {
       "class": "text",
       "id": "1DEE5A8F-46E3-461C-A544-36930122C398"
     },
@@ -151,6 +147,10 @@
     {
       "class": "symbolMaster",
       "id": "A87C3B39-6F0D-442E-B583-27CD3FA074A5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "27AD9F80-5A19-4519-A8DA-5DD1CC2D0E0E"
     }
   ],
   "name": "Atoms | Molecules",
